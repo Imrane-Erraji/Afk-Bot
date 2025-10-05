@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "deepsmp.play.hosting",
+    "port": 54796,
     "version": "1.19.3"
   },
 
@@ -50,8 +50,7 @@
       "messages": [
         "I'm a regular player ",
         "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "I want be alone "
       ]
     },
 
